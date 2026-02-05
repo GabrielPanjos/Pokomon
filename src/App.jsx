@@ -1,5 +1,11 @@
+import InitialMenu from "./pages/InitialMenu/index.jsx";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <InitialMenu />
+    </>
+  );
 }
 
 export default App;
